@@ -1,2 +1,5 @@
 # meethack.py
 exploiting meet classes
+[-] RULES [-]
+1.[+] DO NOT COPY ANYTHING FROM THIS SCRIPT [COPYRIGHT] [+]
+2.[+] IAM NOT RESPLONSIBLE FOR ANYTHING YOU DO WITH THIS SCRIPT [+]
